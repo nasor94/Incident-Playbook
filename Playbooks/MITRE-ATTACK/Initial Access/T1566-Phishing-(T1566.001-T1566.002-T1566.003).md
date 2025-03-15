@@ -181,7 +181,8 @@ Assign steps to individuals or teams to work concurrently, when possible; this p
 
 ```
 (P) Preparation
-  
+ * Configure email gateway to block the unfamilar file like exe, dll, js, ps1, bat, etc ...
+ * 
  
 ```
   
@@ -193,7 +194,9 @@ Assign steps to individuals or teams to work concurrently, when possible; this p
 
 `TODO: Expand investigation steps, including key questions and strategies, for <Type of Incident>.`
 
-
+* do suspicous document analysis and triage the document if malious or not
+* determine the scope the attack by seraching all maill that have recived this email
+* check if any user has download and open this malious file
 
 
 
